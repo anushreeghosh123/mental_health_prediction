@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+nltk
+pillow
+scikit-learn  # for label_encoder.pkl
+matplotlib  # (optional, if you use pie charts or plan to visualize confidence)
