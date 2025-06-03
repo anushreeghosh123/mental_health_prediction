@@ -1,1 +1,1 @@
-# Mindcare- web application for screening possible mental health issues in adolescents
+# MindCare- Web application for screening possible mental health issues in adolescents
