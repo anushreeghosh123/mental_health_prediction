@@ -1,1 +1,1 @@
-# mental_health_prediction
+# Mindcare- web application for screening possible mental health issues in adolescents
